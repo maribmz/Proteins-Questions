@@ -1,4 +1,4 @@
-Let'is consider a protein 4hhb and 1mbo. By relying on Chimera,
+Let's consider a protein 4hhb and 1mbo. By relying on Chimera,
 How many chains are present in each protein  ? ( Color them in PDB format ) 
 Identify the secondary strucutres of each protein.
 What are the all nonstandard residues present in each protein and mention them.
