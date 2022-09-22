@@ -8,3 +8,4 @@ Select two atoms from each protein and measure the distance.
 Compare the sequences of two proteins ( Structure Comparison>Match>Align).
 Find the percentage identity for each protein.
 Save the whole process in PDB format.
+of offfff
